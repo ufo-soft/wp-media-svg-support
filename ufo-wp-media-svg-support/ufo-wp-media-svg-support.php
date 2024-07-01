@@ -1,8 +1,8 @@
 <?php
   /**
-  	 * @package WP Media SVG Support
-  	 * @version 1.0.0
- **/
+    * @package WP Media SVG Support
+    * @version 1.0.0
+  **/
 
   /*
     * Author:                 UFO Soft
@@ -13,7 +13,7 @@
     * Requires PHP:           7.4
     * Requires at least:      6.0
     * Version: 1.0.0
-	*/
+  */
 
   defined( 'ABSPATH' ) || exit;
 
